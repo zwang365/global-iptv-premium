@@ -1,0 +1,86 @@
+{
+  "version": 2,
+  "sources": [
+    {
+      "name": "iptv-org/channels",
+      "url": "https://iptv-org.github.io/api/channels.json",
+      "file": "channels.json",
+      "kind": "channels",
+      "required": true
+    },
+    {
+      "name": "iptv-org/streams",
+      "url": "https://iptv-org.github.io/api/streams.json",
+      "file": "streams.json",
+      "kind": "streams",
+      "required": true
+    },
+    {
+      "name": "iptv-org/blocklist",
+      "url": "https://iptv-org.github.io/api/blocklist.json",
+      "file": "blocklist.json",
+      "kind": "blocklist",
+      "required": true
+    },
+    {
+      "name": "iptv-org/logos",
+      "url": "https://iptv-org.github.io/api/logos.json",
+      "file": "logos.json",
+      "kind": "logos",
+      "required": false
+    },
+    {
+      "name": "YueChan/Live GNTV",
+      "url": "https://raw.githubusercontent.com/YueChan/Live/main/GNTV.m3u",
+      "file": "GNTV.m3u",
+      "kind": "m3u",
+      "required": false
+    },
+    {
+      "name": "Alplox/json-teles",
+      "url": "https://raw.githubusercontent.com/Alplox/json-teles/main/channels.m3u",
+      "file": "alplox.m3u",
+      "kind": "m3u",
+      "required": false
+    },
+    {
+      "name": "tonmy007/IPTV",
+      "url": "https://raw.githubusercontent.com/tonmy007/IPTV/main/channels.txt",
+      "file": "tonmy.txt",
+      "kind": "txt",
+      "required": false
+    },
+    {
+      "name": "Nekori/TV",
+      "url": "https://raw.githubusercontent.com/Nekori/TV/master/A_TV.txt",
+      "file": "nekori.txt",
+      "kind": "txt",
+      "required": false
+    },
+    {
+      "name": "CCTV official player",
+      "url": "https://js.player.cntv.cn/creator/liveplayer.js",
+      "file": "cctv-player.js",
+      "kind": "cctv_player",
+      "required": false
+    },
+    {
+      "name": "DangJin/awesome-iptv",
+      "url": "https://raw.githubusercontent.com/DangJin/awesome-iptv/refs/heads/main/IPTV.m3u",
+      "file": "dangjin.m3u",
+      "kind": "m3u",
+      "required": false
+    }
+  ],
+  "settings": {
+    "include_geo_blocked": false,
+    "max_backups": 2,
+    "minimum_height": 720,
+    "maximum_height": 1080,
+    "maximum_probe_seconds": 120,
+    "probe_workers": 4,
+    "country_required_for_publication": "CN",
+    "repository": "zwang365/global-iptv-premium",
+    "subscription_path": "global-iptv-premium/premium.m3u"
+  }
+}
