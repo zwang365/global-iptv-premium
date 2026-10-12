@@ -1,0 +1,2875 @@
+{
+  "version": 1,
+  "groups": [
+    "01央视（CCTV）",
+    "02省级卫视",
+    "03港澳台主要频道",
+    "04国际新闻",
+    "05国际财经",
+    "06纪录片科学",
+    "07综合娱乐",
+    "08国际体育"
+  ],
+  "channels": [
+    {
+      "id": "CCTV1.cn",
+      "name": "CCTV-1 综合",
+      "group": "01央视（CCTV）",
+      "aliases": [
+        "CCTV-1 综合",
+        "CCTV-1"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "http://tv.cctv.com/cctv1/",
+      "source_aliases": [
+        "CCTV-1 综合",
+        "CCTV-1"
+      ]
+    },
+    {
+      "id": "CCTV2.cn",
+      "name": "CCTV-2 财经",
+      "group": "01央视（CCTV）",
+      "aliases": [
+        "CCTV-2 财经",
+        "CCTV-2"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "http://tv.cctv.com/cctv2/",
+      "source_aliases": [
+        "CCTV-2 财经",
+        "CCTV-2"
+      ]
+    },
+    {
+      "id": "CCTV3.cn",
+      "name": "CCTV-3 综艺",
+      "group": "01央视（CCTV）",
+      "aliases": [
+        "CCTV-3 综艺",
+        "CCTV-3"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "http://tv.cctv.com/cctv3/",
+      "source_aliases": [
+        "CCTV-3 综艺",
+        "CCTV-3"
+      ]
+    },
+    {
+      "id": "CCTV4Asia.cn",
+      "name": "CCTV-4 中文国际亚洲",
+      "group": "01央视（CCTV）",
+      "aliases": [
+        "CCTV-4 中文国际亚洲",
+        "CCTV-4 Asia",
+        "CCTV-4 中文国际",
+        "CCTV-4"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "http://tv.cctv.com/cctv4asia/",
+      "source_aliases": [
+        "CCTV-4 中文国际亚洲",
+        "CCTV-4 Asia",
+        "CCTV-4 中文国际",
+        "CCTV-4"
+      ]
+    },
+    {
+      "id": "CCTV4Europe.cn",
+      "name": "CCTV-4 中文国际欧洲",
+      "group": "01央视（CCTV）",
+      "aliases": [
+        "CCTV-4 中文国际欧洲",
+        "CCTV-4 Europe"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "http://tv.cctv.com/cctv4europe/",
+      "source_aliases": [
+        "CCTV-4 中文国际欧洲",
+        "CCTV-4 Europe"
+      ]
+    },
+    {
+      "id": "CCTV4America.cn",
+      "name": "CCTV-4 中文国际美洲",
+      "group": "01央视（CCTV）",
+      "aliases": [
+        "CCTV-4 中文国际美洲",
+        "CCTV-4 America"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "http://tv.cctv.com/cctv4america/",
+      "source_aliases": [
+        "CCTV-4 中文国际美洲",
+        "CCTV-4 America"
+      ]
+    },
+    {
+      "id": "CCTV5.cn",
+      "name": "CCTV-5 体育",
+      "group": "01央视（CCTV）",
+      "aliases": [
+        "CCTV-5 体育",
+        "CCTV-5"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "http://tv.cctv.com/cctv5/",
+      "source_aliases": [
+        "CCTV-5 体育",
+        "CCTV-5"
+      ]
+    },
+    {
+      "id": "CCTV5Plus.cn",
+      "name": "CCTV-5+ 体育赛事",
+      "group": "01央视（CCTV）",
+      "aliases": [
+        "CCTV-5+ 体育赛事",
+        "CCTV-5+"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "http://tv.cctv.com/cctv5plus/",
+      "source_aliases": [
+        "CCTV-5+ 体育赛事",
+        "CCTV-5+"
+      ]
+    },
+    {
+      "id": "CCTV6.cn",
+      "name": "CCTV-6 电影",
+      "group": "01央视（CCTV）",
+      "aliases": [
+        "CCTV-6 电影",
+        "CCTV-6"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "http://tv.cctv.com/cctv6/",
+      "source_aliases": [
+        "CCTV-6 电影",
+        "CCTV-6"
+      ]
+    },
+    {
+      "id": "CCTV7.cn",
+      "name": "CCTV-7 国防军事",
+      "group": "01央视（CCTV）",
+      "aliases": [
+        "CCTV-7 国防军事",
+        "CCTV-7"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "http://tv.cctv.com/cctv7/",
+      "source_aliases": [
+        "CCTV-7 国防军事",
+        "CCTV-7"
+      ]
+    },
+    {
+      "id": "CCTV8.cn",
+      "name": "CCTV-8 电视剧",
+      "group": "01央视（CCTV）",
+      "aliases": [
+        "CCTV-8 电视剧",
+        "CCTV-8"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "http://tv.cctv.com/cctv8/",
+      "source_aliases": [
+        "CCTV-8 电视剧",
+        "CCTV-8"
+      ]
+    },
+    {
+      "id": "CCTV9.cn",
+      "name": "CCTV-9 纪录",
+      "group": "01央视（CCTV）",
+      "aliases": [
+        "CCTV-9 纪录",
+        "CCTV-9"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "http://tv.cctv.com/cctv9/",
+      "source_aliases": [
+        "CCTV-9 纪录",
+        "CCTV-9"
+      ]
+    },
+    {
+      "id": "CCTV10.cn",
+      "name": "CCTV-10 科教",
+      "group": "01央视（CCTV）",
+      "aliases": [
+        "CCTV-10 科教",
+        "CCTV-10"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "http://tv.cctv.com/cctv10/",
+      "source_aliases": [
+        "CCTV-10 科教",
+        "CCTV-10"
+      ]
+    },
+    {
+      "id": "CCTV11.cn",
+      "name": "CCTV-11 戏曲",
+      "group": "01央视（CCTV）",
+      "aliases": [
+        "CCTV-11 戏曲",
+        "CCTV-11"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "http://tv.cctv.com/cctv11/",
+      "source_aliases": [
+        "CCTV-11 戏曲",
+        "CCTV-11"
+      ]
+    },
+    {
+      "id": "CCTV12.cn",
+      "name": "CCTV-12 社会与法",
+      "group": "01央视（CCTV）",
+      "aliases": [
+        "CCTV-12 社会与法",
+        "CCTV-12"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "http://tv.cctv.com/cctv12/",
+      "source_aliases": [
+        "CCTV-12 社会与法",
+        "CCTV-12"
+      ]
+    },
+    {
+      "id": "CCTV13.cn",
+      "name": "CCTV-13 新闻",
+      "group": "01央视（CCTV）",
+      "aliases": [
+        "CCTV-13 新闻",
+        "CCTV-13",
+        "中国中央电视台新闻频道"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "http://tv.cctv.com/cctv13/",
+      "source_aliases": [
+        "CCTV-13 新闻",
+        "CCTV-13",
+        "中国中央电视台新闻频道"
+      ]
+    },
+    {
+      "id": "CCTV14.cn",
+      "name": "CCTV-14 少儿",
+      "group": "01央视（CCTV）",
+      "aliases": [
+        "CCTV-14 少儿",
+        "CCTV-14"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "http://tv.cctv.com/cctv14/",
+      "source_aliases": [
+        "CCTV-14 少儿",
+        "CCTV-14"
+      ]
+    },
+    {
+      "id": "CCTV15.cn",
+      "name": "CCTV-15 音乐",
+      "group": "01央视（CCTV）",
+      "aliases": [
+        "CCTV-15 音乐",
+        "CCTV-15"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "http://tv.cctv.com/cctv15/",
+      "source_aliases": [
+        "CCTV-15 音乐",
+        "CCTV-15"
+      ]
+    },
+    {
+      "id": "CCTV16.cn",
+      "name": "CCTV-16 奥林匹克",
+      "group": "01央视（CCTV）",
+      "aliases": [
+        "CCTV-16 奥林匹克",
+        "CCTV-16"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "http://tv.cctv.com/cctv16/",
+      "source_aliases": [
+        "CCTV-16 奥林匹克",
+        "CCTV-16"
+      ]
+    },
+    {
+      "id": "CCTV17.cn",
+      "name": "CCTV-17 农业农村",
+      "group": "01央视（CCTV）",
+      "aliases": [
+        "CCTV-17 农业农村",
+        "CCTV-17"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "http://tv.cctv.com/cctv17/",
+      "source_aliases": [
+        "CCTV-17 农业农村",
+        "CCTV-17"
+      ]
+    },
+    {
+      "id": "CCTV4K.cn",
+      "name": "CCTV-4K 超高清",
+      "group": "01央视（CCTV）",
+      "aliases": [
+        "CCTV-4K 超高清",
+        "CCTV-4K"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "http://tv.cctv.com/",
+      "source_aliases": [
+        "CCTV-4K 超高清",
+        "CCTV-4K"
+      ]
+    },
+    {
+      "id": "CCTV8K.cn",
+      "name": "CCTV-8K 超高清",
+      "group": "01央视（CCTV）",
+      "aliases": [
+        "CCTV-8K 超高清",
+        "CCTV-8K"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "http://tv.cctv.com/",
+      "source_aliases": [
+        "CCTV-8K 超高清",
+        "CCTV-8K"
+      ]
+    },
+    {
+      "id": "CCTVBilliards.cn",
+      "name": "CCTV-央视台球",
+      "group": "01央视（CCTV）",
+      "aliases": [
+        "CCTV-央视台球",
+        "CCTV-Billiards"
+      ],
+      "feeds": [],
+      "subscription_only": true,
+      "note": "数字付费频道：没有确认公开免费播出的源，不收录第三方付费转播。",
+      "official_website": "http://tv.cctv.com/",
+      "source_aliases": [
+        "CCTV-央视台球",
+        "CCTV-Billiards"
+      ]
+    },
+    {
+      "id": "CCTVChinaTelevisionShoppingChannel.cn",
+      "name": "CCTV-中视购物",
+      "group": "01央视（CCTV）",
+      "aliases": [
+        "CCTV-中视购物",
+        "CCTV-China Television Shopping Channel"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "http://tv.cctv.com/",
+      "source_aliases": [
+        "CCTV-中视购物",
+        "CCTV-China Television Shopping Channel"
+      ]
+    },
+    {
+      "id": "CCTVCultureofQuality.cn",
+      "name": "CCTV-央视文化精品",
+      "group": "01央视（CCTV）",
+      "aliases": [
+        "CCTV-央视文化精品",
+        "CCTV-Culture of Quality"
+      ],
+      "feeds": [],
+      "subscription_only": true,
+      "note": "数字付费频道：没有确认公开免费播出的源，不收录第三方付费转播。",
+      "official_website": "http://tv.cctv.com/",
+      "source_aliases": [
+        "CCTV-央视文化精品",
+        "CCTV-Culture of Quality"
+      ]
+    },
+    {
+      "id": "CCTVEntertainment.cn",
+      "name": "CCTV-娱乐",
+      "group": "01央视（CCTV）",
+      "aliases": [
+        "CCTV-娱乐",
+        "CCTV-Entertainment"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "http://tv.cctv.com/",
+      "source_aliases": [
+        "CCTV-娱乐",
+        "CCTV-Entertainment"
+      ]
+    },
+    {
+      "id": "CCTVGolfTennis.cn",
+      "name": "CCTV-高尔夫·网球",
+      "group": "01央视（CCTV）",
+      "aliases": [
+        "CCTV-高尔夫·网球",
+        "CCTV-Golf & Tennis"
+      ],
+      "feeds": [],
+      "subscription_only": true,
+      "note": "数字付费频道：没有确认公开免费播出的源，不收录第三方付费转播。",
+      "official_website": "http://tv.cctv.com/",
+      "source_aliases": [
+        "CCTV-高尔夫·网球",
+        "CCTV-Golf & Tennis"
+      ]
+    },
+    {
+      "id": "CCTVHealth.cn",
+      "name": "CCTV-卫生健康",
+      "group": "01央视（CCTV）",
+      "aliases": [
+        "CCTV-卫生健康",
+        "CCTV-Health"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "http://tv.cctv.com/",
+      "source_aliases": [
+        "CCTV-卫生健康",
+        "CCTV-Health"
+      ]
+    },
+    {
+      "id": "CCTVNostalgiaTheater.cn",
+      "name": "CCTV-怀旧剧场",
+      "group": "01央视（CCTV）",
+      "aliases": [
+        "CCTV-怀旧剧场",
+        "CCTV-Nostalgia Theater"
+      ],
+      "feeds": [],
+      "subscription_only": true,
+      "note": "数字付费频道：没有确认公开免费播出的源，不收录第三方付费转播。",
+      "official_website": "http://tv.cctv.com/",
+      "source_aliases": [
+        "CCTV-怀旧剧场",
+        "CCTV-Nostalgia Theater"
+      ]
+    },
+    {
+      "id": "CCTVPlus1.cn",
+      "name": "CCTV+ 1",
+      "group": "01央视（CCTV）",
+      "aliases": [
+        "CCTV+ 1"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "https://www.cctvplus.com/",
+      "source_aliases": [
+        "CCTV+ 1"
+      ]
+    },
+    {
+      "id": "CCTVPlus2.cn",
+      "name": "CCTV+ 2",
+      "group": "01央视（CCTV）",
+      "aliases": [
+        "CCTV+ 2"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "https://www.cctvplus.com/",
+      "source_aliases": [
+        "CCTV+ 2"
+      ]
+    },
+    {
+      "id": "CCTVStormFootball.cn",
+      "name": "CCTV-风云足球",
+      "group": "01央视（CCTV）",
+      "aliases": [
+        "CCTV-风云足球",
+        "CCTV-Storm Football"
+      ],
+      "feeds": [],
+      "subscription_only": true,
+      "note": "数字付费频道：没有确认公开免费播出的源，不收录第三方付费转播。",
+      "official_website": "http://tv.cctv.com/",
+      "source_aliases": [
+        "CCTV-风云足球",
+        "CCTV-Storm Football"
+      ]
+    },
+    {
+      "id": "CCTVStormMusic.cn",
+      "name": "CCTV-风云音乐",
+      "group": "01央视（CCTV）",
+      "aliases": [
+        "CCTV-风云音乐",
+        "CCTV-Storm Music"
+      ],
+      "feeds": [],
+      "subscription_only": true,
+      "note": "数字付费频道：没有确认公开免费播出的源，不收录第三方付费转播。",
+      "official_website": "http://tv.cctv.com/",
+      "source_aliases": [
+        "CCTV-风云音乐",
+        "CCTV-Storm Music"
+      ]
+    },
+    {
+      "id": "CCTVStormTheater.cn",
+      "name": "CCTV-风云剧场",
+      "group": "01央视（CCTV）",
+      "aliases": [
+        "CCTV-风云剧场",
+        "CCTV-Storm Theater"
+      ],
+      "feeds": [],
+      "subscription_only": true,
+      "note": "数字付费频道：没有确认公开免费播出的源，不收录第三方付费转播。",
+      "official_website": "http://tv.cctv.com/",
+      "source_aliases": [
+        "CCTV-风云剧场",
+        "CCTV-Storm Theater"
+      ]
+    },
+    {
+      "id": "CCTVTVGuide.cn",
+      "name": "CCTV-电视指南",
+      "group": "01央视（CCTV）",
+      "aliases": [
+        "CCTV-电视指南",
+        "CCTV-TV Guide"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "http://tv.cctv.com/",
+      "source_aliases": [
+        "CCTV-电视指南",
+        "CCTV-TV Guide"
+      ]
+    },
+    {
+      "id": "CCTVTheFirstTheater.cn",
+      "name": "CCTV-第一剧场",
+      "group": "01央视（CCTV）",
+      "aliases": [
+        "CCTV-第一剧场",
+        "CCTV-The First Theater"
+      ],
+      "feeds": [],
+      "subscription_only": true,
+      "note": "数字付费频道：没有确认公开免费播出的源，不收录第三方付费转播。",
+      "official_website": "http://tv.cctv.com/",
+      "source_aliases": [
+        "CCTV-第一剧场",
+        "CCTV-The First Theater"
+      ]
+    },
+    {
+      "id": "CCTVWeaponTechnology.cn",
+      "name": "CCTV-兵器科技",
+      "group": "01央视（CCTV）",
+      "aliases": [
+        "CCTV-兵器科技",
+        "CCTV-Weapon & Technology"
+      ],
+      "feeds": [],
+      "subscription_only": true,
+      "note": "数字付费频道：没有确认公开免费播出的源，不收录第三方付费转播。",
+      "official_website": "http://tv.cctv.com/",
+      "source_aliases": [
+        "CCTV-兵器科技",
+        "CCTV-Weapon & Technology"
+      ]
+    },
+    {
+      "id": "CCTVWomensFashion.cn",
+      "name": "CCTV-女性时尚",
+      "group": "01央视（CCTV）",
+      "aliases": [
+        "CCTV-女性时尚",
+        "CCTV-Women's Fashion"
+      ],
+      "feeds": [],
+      "subscription_only": true,
+      "note": "数字付费频道：没有确认公开免费播出的源，不收录第三方付费转播。",
+      "official_website": "http://tv.cctv.com/",
+      "source_aliases": [
+        "CCTV-女性时尚",
+        "CCTV-Women's Fashion"
+      ]
+    },
+    {
+      "id": "CCTVWorldGeography.cn",
+      "name": "CCTV-世界地理",
+      "group": "01央视（CCTV）",
+      "aliases": [
+        "CCTV-世界地理",
+        "CCTV-World Geography"
+      ],
+      "feeds": [],
+      "subscription_only": true,
+      "note": "数字付费频道：没有确认公开免费播出的源，不收录第三方付费转播。",
+      "official_website": "http://tv.cctv.com/",
+      "source_aliases": [
+        "CCTV-世界地理",
+        "CCTV-World Geography"
+      ]
+    },
+    {
+      "id": "CGTNArabic.cn",
+      "name": "CGTN Arabic",
+      "group": "01央视（CCTV）",
+      "aliases": [
+        "CGTN Arabic",
+        "CGTN العربية"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "https://arabic.cgtn.com/",
+      "source_aliases": [
+        "CGTN Arabic",
+        "CGTN العربية"
+      ]
+    },
+    {
+      "id": "CGTNFrench.cn",
+      "name": "CGTN French",
+      "group": "01央视（CCTV）",
+      "aliases": [
+        "CGTN French",
+        "CGTN Français"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "https://francais.cgtn.com/",
+      "source_aliases": [
+        "CGTN French",
+        "CGTN Français"
+      ],
+      "preferred_hosts": [
+        "francais-liveali.cgtn.com"
+      ]
+    },
+    {
+      "id": "CGTNRussian.cn",
+      "name": "CGTN Russian",
+      "group": "01央视（CCTV）",
+      "aliases": [
+        "CGTN Russian",
+        "CGTN Pусский"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "https://russian.cgtn.com/",
+      "source_aliases": [
+        "CGTN Russian",
+        "CGTN Pусский"
+      ]
+    },
+    {
+      "id": "CGTNSpanish.cn",
+      "name": "CGTN Spanish",
+      "group": "01央视（CCTV）",
+      "aliases": [
+        "CGTN Spanish",
+        "CGTN Español"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "https://espanol.cgtn.com/",
+      "source_aliases": [
+        "CGTN Spanish",
+        "CGTN Español"
+      ],
+      "preferred_hosts": [
+        "espanol-liveali.cgtn.com"
+      ]
+    },
+    {
+      "id": "CGTNDocumentary.cn",
+      "name": "CGTN Documentary",
+      "group": "01央视（CCTV）",
+      "aliases": [
+        "CGTN Documentary"
+      ],
+      "source_aliases": [
+        "CGTN Documentary"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "CGTN纪录频道归央视组；海外纪录片科学候选仍为10个。",
+      "official_website": "https://www.cgtn.com/channel/documentary"
+    },
+    {
+      "id": "BeijingSatelliteTV.cn",
+      "name": "北京卫视",
+      "group": "02省级卫视",
+      "aliases": [
+        "北京卫视",
+        "Beijing Satellite TV"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "https://www.brtn.cn/btv/",
+      "source_aliases": [
+        "北京卫视",
+        "Beijing Satellite TV"
+      ]
+    },
+    {
+      "id": "TianjinTV.cn",
+      "name": "天津卫视",
+      "group": "02省级卫视",
+      "aliases": [
+        "天津卫视",
+        "Tianjin TV"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "http://tjtv.enorth.com.cn/",
+      "source_aliases": [
+        "天津卫视",
+        "Tianjin TV"
+      ]
+    },
+    {
+      "id": "HebeiTV.cn",
+      "name": "河北卫视",
+      "group": "02省级卫视",
+      "aliases": [
+        "河北卫视",
+        "Hebei TV",
+        "河北电视台"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "http://www.hebtv.com.cn/",
+      "source_aliases": [
+        "河北卫视",
+        "Hebei TV",
+        "河北电视台"
+      ]
+    },
+    {
+      "id": "ShanxiTV.cn",
+      "name": "山西卫视",
+      "group": "02省级卫视",
+      "aliases": [
+        "山西卫视",
+        "Shanxi TV"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "http://www.sxrtv.com/",
+      "source_aliases": [
+        "山西卫视",
+        "Shanxi TV"
+      ]
+    },
+    {
+      "id": "NeiMonggolChineseTV.cn",
+      "name": "内蒙古卫视",
+      "group": "02省级卫视",
+      "aliases": [
+        "内蒙古卫视",
+        "Nei Monggol Chinese TV"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "http://www.nmtv.cn/",
+      "source_aliases": [
+        "内蒙古卫视",
+        "Nei Monggol Chinese TV"
+      ]
+    },
+    {
+      "id": "LiaoningTV.cn",
+      "name": "辽宁卫视",
+      "group": "02省级卫视",
+      "aliases": [
+        "辽宁卫视",
+        "Liaoning TV"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "http://www.lntv.cn/",
+      "source_aliases": [
+        "辽宁卫视",
+        "Liaoning TV"
+      ]
+    },
+    {
+      "id": "JilinSatelliteTV.cn",
+      "name": "吉林卫视",
+      "group": "02省级卫视",
+      "aliases": [
+        "吉林卫视",
+        "Jilin Satellite TV"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "http://www.jlntv.cn/newpc/wlt/live/index.php?channel_id=9",
+      "source_aliases": [
+        "吉林卫视",
+        "Jilin Satellite TV"
+      ]
+    },
+    {
+      "id": "HeilongjiangTV.cn",
+      "name": "黑龙江卫视",
+      "group": "02省级卫视",
+      "aliases": [
+        "黑龙江卫视",
+        "Heilongjiang TV",
+        "黑龙江电视台"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "http://www.hljtv.com/",
+      "source_aliases": [
+        "黑龙江卫视",
+        "Heilongjiang TV",
+        "黑龙江电视台"
+      ]
+    },
+    {
+      "id": "DragonTV.cn",
+      "name": "东方卫视",
+      "group": "02省级卫视",
+      "aliases": [
+        "东方卫视",
+        "Dragon TV"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "https://weibo.com/dongfangweishifqt",
+      "source_aliases": [
+        "东方卫视",
+        "Dragon TV"
+      ]
+    },
+    {
+      "id": "JiangsuSatelliteTV.cn",
+      "name": "江苏卫视",
+      "group": "02省级卫视",
+      "aliases": [
+        "江苏卫视",
+        "Jiangsu Satellite TV"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "http://tv.jstv.com/star/",
+      "source_aliases": [
+        "江苏卫视",
+        "Jiangsu Satellite TV"
+      ]
+    },
+    {
+      "id": "ZhejiangSatelliteTV.cn",
+      "name": "浙江卫视",
+      "group": "02省级卫视",
+      "aliases": [
+        "浙江卫视",
+        "Zhejiang Satellite TV"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "http://www.zjstv.com/",
+      "source_aliases": [
+        "浙江卫视",
+        "Zhejiang Satellite TV"
+      ]
+    },
+    {
+      "id": "AnhuiTV.cn",
+      "name": "安徽卫视",
+      "group": "02省级卫视",
+      "aliases": [
+        "安徽卫视",
+        "Anhui TV"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "http://www.ahtv.cn/",
+      "source_aliases": [
+        "安徽卫视",
+        "Anhui TV"
+      ]
+    },
+    {
+      "id": "FujianSoutheastTV.cn",
+      "name": "东南卫视",
+      "group": "02省级卫视",
+      "aliases": [
+        "东南卫视",
+        "Fujian Southeast TV",
+        "福建东南卫视"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "http://www.setv.com.cn/",
+      "source_aliases": [
+        "东南卫视",
+        "Fujian Southeast TV",
+        "福建东南卫视"
+      ]
+    },
+    {
+      "id": "JiangxiTV.cn",
+      "name": "江西卫视",
+      "group": "02省级卫视",
+      "aliases": [
+        "江西卫视",
+        "Jiangxi TV"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "http://www.jxntv.cn/",
+      "source_aliases": [
+        "江西卫视",
+        "Jiangxi TV"
+      ]
+    },
+    {
+      "id": "ShandongSatelliteTV.cn",
+      "name": "山东卫视",
+      "group": "02省级卫视",
+      "aliases": [
+        "山东卫视",
+        "Shandong Satellite TV"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "https://www.cbbn.net/folder253/folder337?channel_id=23",
+      "source_aliases": [
+        "山东卫视",
+        "Shandong Satellite TV"
+      ],
+      "alternate_ids": [
+        "ShandongTV.cn"
+      ]
+    },
+    {
+      "id": "HenanTVSatellite.cn",
+      "name": "河南卫视",
+      "group": "02省级卫视",
+      "aliases": [
+        "河南卫视",
+        "Henan TV Satellite"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "http://www.hntv.tv/hntv/",
+      "source_aliases": [
+        "河南卫视",
+        "Henan TV Satellite"
+      ],
+      "alternate_ids": [
+        "HenanTV.cn"
+      ]
+    },
+    {
+      "id": "HubeiSatelliteTV.cn",
+      "name": "湖北卫视",
+      "group": "02省级卫视",
+      "aliases": [
+        "湖北卫视",
+        "Hubei Satellite TV"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "http://www.hbtv.com.cn/",
+      "source_aliases": [
+        "湖北卫视",
+        "Hubei Satellite TV"
+      ]
+    },
+    {
+      "id": "HunanTV.cn",
+      "name": "湖南卫视",
+      "group": "02省级卫视",
+      "aliases": [
+        "湖南卫视",
+        "Hunan TV"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "上游芒果地址带编码签名，不能作为长期固定订阅地址。",
+      "official_website": "https://www.mgtv.com/tv/",
+      "source_aliases": [
+        "湖南卫视",
+        "Hunan TV"
+      ],
+      "reject_url_patterns": [
+        "/nn_live/nn_x64/"
+      ]
+    },
+    {
+      "id": "GuangdongSatelliteTV.cn",
+      "name": "广东卫视",
+      "group": "02省级卫视",
+      "aliases": [
+        "广东卫视",
+        "Guangdong Satellite TV"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "http://star.gdtv.cn/",
+      "source_aliases": [
+        "广东卫视",
+        "Guangdong Satellite TV"
+      ]
+    },
+    {
+      "id": "GuangxiTV.cn",
+      "name": "广西卫视",
+      "group": "02省级卫视",
+      "aliases": [
+        "广西卫视",
+        "Guangxi TV"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "http://vod.gxtv.cn/",
+      "source_aliases": [
+        "广西卫视",
+        "Guangxi TV"
+      ]
+    },
+    {
+      "id": "HainanSatelliteTV.cn",
+      "name": "海南卫视",
+      "group": "02省级卫视",
+      "aliases": [
+        "海南卫视",
+        "Hainan Satellite TV"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "http://www.hnntv.cn/",
+      "source_aliases": [
+        "海南卫视",
+        "Hainan Satellite TV"
+      ]
+    },
+    {
+      "id": "ChongqingSatelliteTV.cn",
+      "name": "重庆卫视",
+      "group": "02省级卫视",
+      "aliases": [
+        "重庆卫视",
+        "Chongqing Satellite TV"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "http://www.cqbntv.cn/",
+      "source_aliases": [
+        "重庆卫视",
+        "Chongqing Satellite TV"
+      ]
+    },
+    {
+      "id": "SichuanSatelliteTV.cn",
+      "name": "四川卫视",
+      "group": "02省级卫视",
+      "aliases": [
+        "四川卫视",
+        "Sichuan Satellite TV"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "",
+      "official_website": null,
+      "source_aliases": [
+        "四川卫视",
+        "Sichuan Satellite TV"
+      ]
+    },
+    {
+      "id": "GuizhouTV.cn",
+      "name": "贵州卫视",
+      "group": "02省级卫视",
+      "aliases": [
+        "贵州卫视",
+        "Guizhou TV"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "https://www.gzstv.com/",
+      "source_aliases": [
+        "贵州卫视",
+        "Guizhou TV"
+      ]
+    },
+    {
+      "id": "YunnanSatelliteTV.cn",
+      "name": "云南卫视",
+      "group": "02省级卫视",
+      "aliases": [
+        "云南卫视",
+        "Yunnan Satellite TV"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "http://www.yntv.cn/live.html",
+      "source_aliases": [
+        "云南卫视",
+        "Yunnan Satellite TV"
+      ]
+    },
+    {
+      "id": "XizangTVChinese.cn",
+      "name": "西藏卫视",
+      "group": "02省级卫视",
+      "aliases": [
+        "西藏卫视",
+        "Xizang TV Chinese"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "上游个别路径像地方综合台，与目标卫视身份存疑；排除这类地址，待电视端确认。",
+      "official_website": "http://www.vtibet.com/ds/",
+      "source_aliases": [
+        "西藏卫视",
+        "Xizang TV Chinese"
+      ],
+      "reject_url_patterns": [
+        "/nqzh.m3u8",
+        "/mhds.m3u8",
+        "/klmy2.m3u8"
+      ]
+    },
+    {
+      "id": "ShaanxiSatelliteTV.cn",
+      "name": "陕西卫视",
+      "group": "02省级卫视",
+      "aliases": [
+        "陕西卫视",
+        "Shaanxi Satellite TV"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "http://www.snrtv.com/",
+      "source_aliases": [
+        "陕西卫视",
+        "Shaanxi Satellite TV"
+      ],
+      "alternate_ids": [
+        "ShaanxiSatelitalTV.cn"
+      ]
+    },
+    {
+      "id": "GansuSatelliteTV.cn",
+      "name": "甘肃卫视",
+      "group": "02省级卫视",
+      "aliases": [
+        "甘肃卫视",
+        "Gansu Satellite TV"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "http://www.gstv.com.cn/",
+      "source_aliases": [
+        "甘肃卫视",
+        "Gansu Satellite TV"
+      ]
+    },
+    {
+      "id": "QinghaiTV.cn",
+      "name": "青海卫视",
+      "group": "02省级卫视",
+      "aliases": [
+        "青海卫视",
+        "Qinghai TV"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "上游个别路径像地方综合台，与目标卫视身份存疑；排除这类地址，待电视端确认。",
+      "official_website": null,
+      "source_aliases": [
+        "青海卫视",
+        "Qinghai TV"
+      ],
+      "reject_url_patterns": [
+        "/nqzh.m3u8",
+        "/mhds.m3u8",
+        "/klmy2.m3u8"
+      ]
+    },
+    {
+      "id": "NingxiaSatelliteChannel.cn",
+      "name": "宁夏卫视",
+      "group": "02省级卫视",
+      "aliases": [
+        "宁夏卫视",
+        "Ningxia Satellite Channel",
+        "卫视频道"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "http://www.nxtv.com.cn/tv/ws/",
+      "source_aliases": [
+        "宁夏卫视",
+        "Ningxia Satellite Channel",
+        "卫视频道"
+      ]
+    },
+    {
+      "id": "XinjiangTV1.cn",
+      "name": "新疆卫视",
+      "group": "02省级卫视",
+      "aliases": [
+        "新疆卫视",
+        "Xinjiang TV 1"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "上游个别路径像地方综合台，与目标卫视身份存疑；排除这类地址，待电视端确认。",
+      "official_website": null,
+      "source_aliases": [
+        "新疆卫视",
+        "Xinjiang TV 1"
+      ],
+      "reject_url_patterns": [
+        "/nqzh.m3u8",
+        "/mhds.m3u8",
+        "/klmy2.m3u8"
+      ]
+    },
+    {
+      "id": "ShenzhenSatelliteTV.cn",
+      "name": "深圳卫视",
+      "group": "02省级卫视",
+      "aliases": [
+        "深圳卫视",
+        "Shenzhen Satellite TV"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "https://sztv.cutv.com/",
+      "source_aliases": [
+        "深圳卫视",
+        "Shenzhen Satellite TV"
+      ]
+    },
+    {
+      "id": "XiamenStarTVChina.cn",
+      "name": "厦门卫视",
+      "group": "02省级卫视",
+      "aliases": [
+        "厦门卫视",
+        "Xiamen Star TV China"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "http://www.xmtv.cn/",
+      "source_aliases": [
+        "厦门卫视",
+        "Xiamen Star TV China"
+      ]
+    },
+    {
+      "id": "BingtuanSatelliteTV.cn",
+      "name": "兵团卫视",
+      "group": "02省级卫视",
+      "aliases": [
+        "兵团卫视",
+        "Bingtuan Satellite TV"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "",
+      "official_website": null,
+      "source_aliases": [
+        "兵团卫视",
+        "Bingtuan Satellite TV"
+      ]
+    },
+    {
+      "id": "KangbaTV.cn",
+      "name": "康巴卫视",
+      "group": "02省级卫视",
+      "aliases": [
+        "康巴卫视",
+        "Kangba TV"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "",
+      "official_website": null,
+      "source_aliases": [
+        "康巴卫视",
+        "Kangba TV"
+      ]
+    },
+    {
+      "id": "GBASatelliteTV.cn",
+      "name": "大湾区卫视",
+      "group": "02省级卫视",
+      "aliases": [
+        "大湾区卫视",
+        "GBA Satellite TV"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "https://www.gdtv.cn/tvChannelDetail/43",
+      "source_aliases": [
+        "大湾区卫视",
+        "GBA Satellite TV"
+      ],
+      "alternate_ids": [
+        "TheGreaterBaySatelliteTV.cn"
+      ]
+    },
+    {
+      "id": "SanshaTV.cn",
+      "name": "三沙卫视",
+      "group": "02省级卫视",
+      "aliases": [
+        "三沙卫视",
+        "Sansha TV"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "",
+      "official_website": null,
+      "source_aliases": [
+        "三沙卫视",
+        "Sansha TV"
+      ]
+    },
+    {
+      "id": "Jade.hk",
+      "name": "翡翠台",
+      "group": "03港澳台主要频道",
+      "aliases": [
+        "翡翠台",
+        "Jade",
+        "TVB翡翠台",
+        "TVB Jade"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "http://programme.tvb.com/jade/",
+      "source_aliases": [
+        "翡翠台",
+        "Jade",
+        "TVB翡翠台",
+        "TVB Jade"
+      ]
+    },
+    {
+      "id": "Pearl.hk",
+      "name": "明珠台",
+      "group": "03港澳台主要频道",
+      "aliases": [
+        "明珠台",
+        "Pearl",
+        "TVB明珠台",
+        "TVB Pearl"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "https://programme.tvb.com/pearl/",
+      "source_aliases": [
+        "明珠台",
+        "Pearl",
+        "TVB明珠台",
+        "TVB Pearl"
+      ]
+    },
+    {
+      "id": "TVBNewsChannel.hk",
+      "name": "TVB无线新闻",
+      "group": "03港澳台主要频道",
+      "aliases": [
+        "TVB无线新闻",
+        "TVB News Channel",
+        "TVB無綫新聞台",
+        "无线新闻"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "http://programme.tvb.com/tvbnewschannel",
+      "source_aliases": [
+        "TVB无线新闻",
+        "TVB News Channel",
+        "TVB無綫新聞台",
+        "无线新闻"
+      ]
+    },
+    {
+      "id": "ViuTV.hk",
+      "name": "ViuTV",
+      "group": "03港澳台主要频道",
+      "aliases": [
+        "ViuTV"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "http://viu.tv/",
+      "source_aliases": [
+        "ViuTV"
+      ]
+    },
+    {
+      "id": "ViuTVsix.hk",
+      "name": "ViuTVsix",
+      "group": "03港澳台主要频道",
+      "aliases": [
+        "ViuTVsix"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "http://viu.tv/",
+      "source_aliases": [
+        "ViuTVsix"
+      ]
+    },
+    {
+      "id": "RTHKTV31.hk",
+      "name": "港台电视31",
+      "group": "03港澳台主要频道",
+      "aliases": [
+        "港台电视31",
+        "RTHK TV 31",
+        "港台電視31"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "https://www.rthk.hk/",
+      "source_aliases": [
+        "港台电视31",
+        "RTHK TV 31",
+        "港台電視31"
+      ],
+      "known_labels": [
+        "Geo-blocked"
+      ]
+    },
+    {
+      "id": "RTHKTV32.hk",
+      "name": "港台电视32",
+      "group": "03港澳台主要频道",
+      "aliases": [
+        "港台电视32",
+        "RTHK TV 32",
+        "港台電視32"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "https://www.rthk.hk/",
+      "source_aliases": [
+        "港台电视32",
+        "RTHK TV 32",
+        "港台電視32"
+      ],
+      "known_labels": [
+        "Geo-blocked"
+      ]
+    },
+    {
+      "id": "PhoenixChineseChannel.hk",
+      "name": "凤凰中文",
+      "group": "03港澳台主要频道",
+      "aliases": [
+        "凤凰中文",
+        "Phoenix Chinese Channel",
+        "鳳凰衛視中文台"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "http://phtv.ifeng.com/",
+      "source_aliases": [
+        "凤凰中文",
+        "Phoenix Chinese Channel",
+        "鳳凰衛視中文台"
+      ]
+    },
+    {
+      "id": "PhoenixInfoNewsChannel.hk",
+      "name": "凤凰资讯",
+      "group": "03港澳台主要频道",
+      "aliases": [
+        "凤凰资讯",
+        "Phoenix InfoNews Channel",
+        "鳳凰衛視資訊台"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "http://phtv.ifeng.com/phoenixinfonews/",
+      "source_aliases": [
+        "凤凰资讯",
+        "Phoenix InfoNews Channel",
+        "鳳凰衛視資訊台"
+      ]
+    },
+    {
+      "id": "PhoenixHongKongChannel.hk",
+      "name": "凤凰香港",
+      "group": "03港澳台主要频道",
+      "aliases": [
+        "凤凰香港",
+        "Phoenix Hong Kong Channel",
+        "鳳凰衛視香港台"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "http://phtv.ifeng.com/hkchannel/",
+      "source_aliases": [
+        "凤凰香港",
+        "Phoenix Hong Kong Channel",
+        "鳳凰衛視香港台"
+      ]
+    },
+    {
+      "id": "nowNews.hk",
+      "name": "NOW新闻台",
+      "group": "03港澳台主要频道",
+      "aliases": [
+        "NOW新闻台",
+        "now News",
+        "now新聞台"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "http://news.now.com/",
+      "source_aliases": [
+        "NOW新闻台",
+        "now News",
+        "now新聞台"
+      ]
+    },
+    {
+      "id": "HOY77.hk",
+      "name": "HOY77",
+      "group": "03港澳台主要频道",
+      "aliases": [
+        "HOY77",
+        "HOY 77"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "https://hoy.tv/",
+      "source_aliases": [
+        "HOY77",
+        "HOY 77"
+      ]
+    },
+    {
+      "id": "HKSTV.hk",
+      "name": "香港卫视",
+      "group": "03港澳台主要频道",
+      "aliases": [
+        "香港卫视",
+        "HKSTV",
+        "Hong Kong Satellite TV",
+        "香港衛視"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "http://www.hkstv.tv/",
+      "source_aliases": [
+        "香港卫视",
+        "HKSTV",
+        "Hong Kong Satellite TV",
+        "香港衛視"
+      ]
+    },
+    {
+      "id": "TDMOuMun.mo",
+      "name": "澳视澳门",
+      "group": "03港澳台主要频道",
+      "aliases": [
+        "澳视澳门",
+        "TDM Ou Mun",
+        "澳視澳門"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "http://new.tdm.com.mo/c_tv/?ch=ctvp",
+      "source_aliases": [
+        "澳视澳门",
+        "TDM Ou Mun",
+        "澳視澳門"
+      ]
+    },
+    {
+      "id": "TDMMacauSatellite.mo",
+      "name": "澳门卫星",
+      "group": "03港澳台主要频道",
+      "aliases": [
+        "澳门卫星",
+        "TDM-Macau Satellite",
+        "澳門-MACAU",
+        "澳视卫星"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "http://new.tdm.com.mo/c_tv/?ch=sat",
+      "source_aliases": [
+        "澳门卫星",
+        "TDM-Macau Satellite",
+        "澳門-MACAU",
+        "澳视卫星"
+      ]
+    },
+    {
+      "id": "TDMEntertainment.mo",
+      "name": "澳门综艺",
+      "group": "03港澳台主要频道",
+      "aliases": [
+        "澳门综艺",
+        "TDM Entertainment",
+        "澳門綜藝"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "http://tdm.com.mo/",
+      "source_aliases": [
+        "澳门综艺",
+        "TDM Entertainment",
+        "澳門綜藝"
+      ]
+    },
+    {
+      "id": "TDMInformation.mo",
+      "name": "澳门资讯",
+      "group": "03港澳台主要频道",
+      "aliases": [
+        "澳门资讯",
+        "TDM Information",
+        "澳門資訊頻道",
+        "TDMInformação"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "http://new.tdm.com.mo/c_tv/?ch=info",
+      "source_aliases": [
+        "澳门资讯",
+        "TDM Information",
+        "澳門資訊頻道",
+        "TDMInformação"
+      ]
+    },
+    {
+      "id": "TDMSports.mo",
+      "name": "澳门体育",
+      "group": "03港澳台主要频道",
+      "aliases": [
+        "澳门体育",
+        "TDM Sports",
+        "澳門體育頻道"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "http://new.tdm.com.mo/c_tv/?ch=sport",
+      "source_aliases": [
+        "澳门体育",
+        "TDM Sports",
+        "澳門體育頻道"
+      ]
+    },
+    {
+      "id": "CanalMacau.mo",
+      "name": "澳视葡文",
+      "group": "03港澳台主要频道",
+      "aliases": [
+        "澳视葡文",
+        "Canal Macau"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "https://www.tdm.com.mo/en/",
+      "source_aliases": [
+        "澳视葡文",
+        "Canal Macau"
+      ]
+    },
+    {
+      "id": "LotusTV.mo",
+      "name": "澳门莲花",
+      "group": "03港澳台主要频道",
+      "aliases": [
+        "澳门莲花",
+        "Lotus TV"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "http://www.lotustv.cc/",
+      "source_aliases": [
+        "澳门莲花",
+        "Lotus TV"
+      ]
+    },
+    {
+      "id": "TTV.tw",
+      "name": "台视",
+      "group": "03港澳台主要频道",
+      "aliases": [
+        "台视",
+        "TTV"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "https://www.ttv.com.tw/",
+      "source_aliases": [
+        "台视",
+        "TTV"
+      ]
+    },
+    {
+      "id": "CTV.tw",
+      "name": "中视",
+      "group": "03港澳台主要频道",
+      "aliases": [
+        "中视",
+        "CTV"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "http://new.ctv.com.tw/",
+      "source_aliases": [
+        "中视",
+        "中視"
+      ]
+    },
+    {
+      "id": "CTS.tw",
+      "name": "华视",
+      "group": "03港澳台主要频道",
+      "aliases": [
+        "华视",
+        "CTS"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "https://www.cts.com.tw/",
+      "source_aliases": [
+        "华视",
+        "CTS"
+      ]
+    },
+    {
+      "id": "FTV.tw",
+      "name": "民视",
+      "group": "03港澳台主要频道",
+      "aliases": [
+        "民视",
+        "FTV",
+        "民視",
+        "Formosa TV",
+        "民間全民電視公司"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "https://www.ftv.com.tw/",
+      "source_aliases": [
+        "民视",
+        "FTV",
+        "民視",
+        "Formosa TV",
+        "民間全民電視公司"
+      ]
+    },
+    {
+      "id": "PTS.tw",
+      "name": "公视",
+      "group": "03港澳台主要频道",
+      "aliases": [
+        "公视",
+        "PTS",
+        "公視"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "https://www.pts.org.tw/",
+      "source_aliases": [
+        "公视",
+        "PTS",
+        "公視"
+      ]
+    },
+    {
+      "id": "TVBSNews.tw",
+      "name": "TVBS新闻",
+      "group": "03港澳台主要频道",
+      "aliases": [
+        "TVBS新闻",
+        "TVBS News"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "https://news.tvbs.com.tw/",
+      "source_aliases": [
+        "TVBS新闻",
+        "TVBS News"
+      ]
+    },
+    {
+      "id": "CTiNews.tw",
+      "name": "中天新闻",
+      "group": "03港澳台主要频道",
+      "aliases": [
+        "中天新闻",
+        "CTi News",
+        "中天新聞台"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "http://www.ctitv.com.tw/",
+      "source_aliases": [
+        "中天新闻",
+        "CTi News",
+        "中天新聞台"
+      ]
+    },
+    {
+      "id": "FTVNews.tw",
+      "name": "民视新闻",
+      "group": "03港澳台主要频道",
+      "aliases": [
+        "民视新闻",
+        "FTV News",
+        "民視新聞台"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "https://news.ftv.com.tw/",
+      "source_aliases": [
+        "民视新闻",
+        "FTV News",
+        "民視新聞台"
+      ]
+    },
+    {
+      "id": "CTSNews.tw",
+      "name": "华视新闻",
+      "group": "03港澳台主要频道",
+      "aliases": [
+        "华视新闻",
+        "CTS News",
+        "華視新聞資訊台"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "https://www.cts.com.tw/",
+      "source_aliases": [
+        "华视新闻",
+        "CTS News",
+        "華視新聞資訊台"
+      ]
+    },
+    {
+      "id": "ETTVNews.tw",
+      "name": "东森新闻",
+      "group": "03港澳台主要频道",
+      "aliases": [
+        "东森新闻",
+        "ETTV News",
+        "東森新聞台"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "http://www.ettvamerica.com/Channels/ChannelDescription.cshtml?i=News",
+      "source_aliases": [
+        "东森新闻",
+        "ETTV News",
+        "東森新聞台"
+      ]
+    },
+    {
+      "id": "SETNews.tw",
+      "name": "三立新闻",
+      "group": "03港澳台主要频道",
+      "aliases": [
+        "三立新闻",
+        "SET News",
+        "三立新聞"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "https://www.settv.com.tw/",
+      "source_aliases": [
+        "三立新闻",
+        "SET News",
+        "三立新聞"
+      ]
+    },
+    {
+      "id": "CTVNewsChannel.tw",
+      "name": "中视新闻",
+      "group": "03港澳台主要频道",
+      "aliases": [
+        "中视新闻",
+        "CTV News Channel",
+        "中視新聞台"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "http://new.ctv.com.tw/News",
+      "source_aliases": [
+        "中视新闻",
+        "中視新聞"
+      ]
+    },
+    {
+      "id": "PTSNews24.tw",
+      "name": "公视新闻",
+      "group": "03港澳台主要频道",
+      "aliases": [
+        "公视新闻",
+        "PTS News 24"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "https://news.pts.org.tw/video",
+      "source_aliases": [
+        "公视新闻",
+        "PTS News 24"
+      ]
+    },
+    {
+      "id": "local.TVBPlus",
+      "name": "TVBPlus",
+      "group": "03港澳台主要频道",
+      "aliases": [
+        "TVBPlus"
+      ],
+      "source_aliases": [
+        "TVBPlus"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "本地频道标识（非iptv-org数据库ID）；地址按YueChan频道名精确匹配，未实测。",
+      "official_website": "https://programme.tvb.com/"
+    },
+    {
+      "id": "BBCNews.uk",
+      "name": "BBC News",
+      "group": "04国际新闻",
+      "aliases": [
+        "BBC News"
+      ],
+      "feeds": [
+        "Africa",
+        "AsiaPacific",
+        "Europe",
+        "NorthAmerica",
+        "SouthAsia"
+      ],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "https://www.bbc.co.uk/tv/bbcnews",
+      "source_aliases": [
+        "BBC News"
+      ],
+      "preferred_hosts": [
+        "vs-hls-push-ww-live.akamaized.net"
+      ]
+    },
+    {
+      "id": "CNNInternational.us",
+      "name": "CNN International",
+      "group": "04国际新闻",
+      "aliases": [
+        "CNN International",
+        "CNNi"
+      ],
+      "feeds": [],
+      "subscription_only": true,
+      "note": "不要把 CNN US、CNN FAST 或 cnn_slate 占位流冒充 CNN International。",
+      "official_website": "https://edition.cnn.com/",
+      "source_aliases": [
+        "CNN International"
+      ]
+    },
+    {
+      "id": "SkyNews.uk",
+      "name": "Sky News",
+      "group": "04国际新闻",
+      "aliases": [
+        "Sky News"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "https://news.sky.com/",
+      "source_aliases": [
+        "Sky News"
+      ]
+    },
+    {
+      "id": "AlJazeera.qa",
+      "name": "Al Jazeera English",
+      "group": "04国际新闻",
+      "aliases": [
+        "Al Jazeera English",
+        "Al Jazeera",
+        "الجزيرة‎"
+      ],
+      "feeds": [
+        "English"
+      ],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "https://www.aljazeera.net/",
+      "source_aliases": [
+        "Al Jazeera"
+      ],
+      "preferred_hosts": [
+        "live-hls-apps-aje-fa.getaj.net",
+        "live-hls-apps-aje-v3-fa.getaj.net",
+        "live-hls-aje-ak.getaj.net"
+      ]
+    },
+    {
+      "id": "DW.de",
+      "name": "DW English",
+      "group": "04国际新闻",
+      "aliases": [
+        "DW English",
+        "DW",
+        "Deutsche Welle"
+      ],
+      "feeds": [
+        "English"
+      ],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "https://www.dw.com/",
+      "source_aliases": [
+        "DW English"
+      ],
+      "preferred_hosts": [
+        "dwamdstream102.akamaized.net"
+      ]
+    },
+    {
+      "id": "France24.fr",
+      "name": "France 24 English",
+      "group": "04国际新闻",
+      "aliases": [
+        "France 24 English",
+        "France 24",
+        "France24"
+      ],
+      "feeds": [
+        "English"
+      ],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "https://www.france24.com/",
+      "source_aliases": [
+        "France24"
+      ]
+    },
+    {
+      "id": "NHKWorldJapan.jp",
+      "name": "NHK World Japan",
+      "group": "04国际新闻",
+      "aliases": [
+        "NHK World Japan",
+        "NHK World-Japan",
+        "NHK World"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "https://www3.nhk.or.jp/nhkworld/",
+      "source_aliases": [
+        "NHK World"
+      ],
+      "preferred_hosts": [
+        "masterpl.hls.nhkworld.jp",
+        "media-osa.hls.nhkworld.jp",
+        "media-tyo.hls.nhkworld.jp"
+      ]
+    },
+    {
+      "id": "CNA.sg",
+      "name": "CNA",
+      "group": "04国际新闻",
+      "aliases": [
+        "CNA",
+        "Channel NewsAsia"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "https://www.channelnewsasia.com/",
+      "source_aliases": [
+        "CNA"
+      ],
+      "known_labels": [
+        "Geo-blocked"
+      ]
+    },
+    {
+      "id": "ABCNews.au",
+      "name": "ABC News Australia",
+      "group": "04国际新闻",
+      "aliases": [
+        "ABC News Australia",
+        "ABC News"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "https://www.abc.net.au/news/newschannel/",
+      "source_aliases": [
+        "ABC News Australia"
+      ]
+    },
+    {
+      "id": "EuronewsEnglish.fr",
+      "name": "Euronews English",
+      "group": "04国际新闻",
+      "aliases": [
+        "Euronews English"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "https://www.euronews.com/",
+      "source_aliases": [
+        "Euronews English"
+      ],
+      "preferred_hosts": [
+        "cdn-euronews.akamaized.net"
+      ]
+    },
+    {
+      "id": "TRTWorld.tr",
+      "name": "TRT World",
+      "group": "04国际新闻",
+      "aliases": [
+        "TRT World"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "https://www.trtworld.com/",
+      "source_aliases": [
+        "TRT World"
+      ]
+    },
+    {
+      "id": "CGTN.cn",
+      "name": "CGTN English",
+      "group": "04国际新闻",
+      "aliases": [
+        "CGTN English",
+        "CGTN"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "https://www.cgtn.com/tv",
+      "source_aliases": [
+        "CGTN"
+      ]
+    },
+    {
+      "id": "ArirangTV.kr",
+      "name": "Arirang TV",
+      "group": "04国际新闻",
+      "aliases": [
+        "Arirang TV",
+        "아리랑 국제방송",
+        "Arirang"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "https://www.arirang.com/",
+      "source_aliases": [
+        "Arirang"
+      ],
+      "preferred_hosts": [
+        "amdlive-ch01-ctnd-com.akamaized.net",
+        "amdlive-ch02-ctnd-com.akamaized.net",
+        "amdlive-ch03-ctnd-com.akamaized.net"
+      ]
+    },
+    {
+      "id": "BloombergTV.us",
+      "name": "Bloomberg Television",
+      "group": "05国际财经",
+      "aliases": [
+        "Bloomberg Television",
+        "Bloomberg TV"
+      ],
+      "feeds": [
+        "Asia",
+        "US",
+        "Europe",
+        "Australia",
+        "Plus"
+      ],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "https://www.bloomberg.com/live/us/btv",
+      "source_aliases": [
+        "Bloomberg Television"
+      ],
+      "feed_preference": [
+        "Asia",
+        "US",
+        "Europe",
+        "Plus",
+        "Australia"
+      ]
+    },
+    {
+      "id": "CNBCUK.uk",
+      "name": "CNBC International（英国分发版）",
+      "group": "05国际财经",
+      "aliases": [
+        "CNBC International（英国分发版）",
+        "CNBC UK"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "http://www.cnbc.com/europe-television/",
+      "source_aliases": [
+        "CNBC International（英国分发版）"
+      ],
+      "known_labels": [
+        "Geo-blocked"
+      ]
+    },
+    {
+      "id": "CNBCAsia.sg",
+      "name": "CNBC Asia",
+      "group": "05国际财经",
+      "aliases": [
+        "CNBC Asia"
+      ],
+      "feeds": [],
+      "subscription_only": true,
+      "note": "",
+      "official_website": "https://www.cnbc.com/id/15838789",
+      "source_aliases": [
+        "CNBC Asia"
+      ]
+    },
+    {
+      "id": "FoxBusinessNetwork.us",
+      "name": "Fox Business",
+      "group": "05国际财经",
+      "aliases": [
+        "Fox Business",
+        "Fox Business Network"
+      ],
+      "feeds": [],
+      "subscription_only": true,
+      "note": "",
+      "official_website": "https://www.foxbusiness.com/",
+      "source_aliases": [
+        "Fox Business"
+      ]
+    },
+    {
+      "id": "YahooFinance.us",
+      "name": "Yahoo Finance",
+      "group": "05国际财经",
+      "aliases": [
+        "Yahoo Finance",
+        "Yahoo! Finance"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "https://pluto.tv/en/live-tv/yahoo-finance",
+      "source_aliases": [
+        "Yahoo Finance"
+      ]
+    },
+    {
+      "id": "SchwabNetwork.us",
+      "name": "Schwab Network",
+      "group": "05国际财经",
+      "aliases": [
+        "Schwab Network"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "https://schwabnetwork.com/",
+      "source_aliases": [
+        "Schwab Network"
+      ]
+    },
+    {
+      "id": "CheddarNews.us",
+      "name": "Cheddar News",
+      "group": "05国际财经",
+      "aliases": [
+        "Cheddar News"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "https://cheddar.com/",
+      "source_aliases": [
+        "Cheddar News"
+      ]
+    },
+    {
+      "id": "BBCEarth.uk",
+      "name": "BBC Earth（美国免费FAST版）",
+      "group": "06纪录片科学",
+      "aliases": [
+        "BBC Earth（美国免费FAST版）",
+        "BBC Earth"
+      ],
+      "feeds": [
+        "US"
+      ],
+      "subscription_only": false,
+      "note": "美国免费 FAST 版，与原付费 BBC Earth 编排不同。",
+      "official_website": null,
+      "source_aliases": [
+        "BBC Earth"
+      ]
+    },
+    {
+      "id": "DiscoveryChannel.us",
+      "name": "Discovery Channel",
+      "group": "06纪录片科学",
+      "aliases": [
+        "Discovery Channel"
+      ],
+      "feeds": [],
+      "subscription_only": true,
+      "note": "",
+      "official_website": "http://dsc.discovery.com/",
+      "source_aliases": [
+        "Discovery Channel"
+      ]
+    },
+    {
+      "id": "NationalGeographic.us",
+      "name": "National Geographic",
+      "group": "06纪录片科学",
+      "aliases": [
+        "National Geographic"
+      ],
+      "feeds": [],
+      "subscription_only": true,
+      "note": "",
+      "official_website": "http://channel.nationalgeographic.com/",
+      "source_aliases": [
+        "National Geographic"
+      ]
+    },
+    {
+      "id": "History.us",
+      "name": "History",
+      "group": "06纪录片科学",
+      "aliases": [
+        "History"
+      ],
+      "feeds": [],
+      "subscription_only": true,
+      "note": "",
+      "official_website": "http://www.history.com/",
+      "source_aliases": [
+        "History"
+      ]
+    },
+    {
+      "id": "Science.us",
+      "name": "Science Channel",
+      "group": "06纪录片科学",
+      "aliases": [
+        "Science Channel",
+        "Science"
+      ],
+      "feeds": [],
+      "subscription_only": true,
+      "note": "",
+      "official_website": "http://www.sciencechannel.com/",
+      "source_aliases": [
+        "Science Channel"
+      ]
+    },
+    {
+      "id": "LoveNature.ca",
+      "name": "Love Nature",
+      "group": "06纪录片科学",
+      "aliases": [
+        "Love Nature"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "https://tv.lovenature.com/",
+      "source_aliases": [
+        "Love Nature"
+      ]
+    },
+    {
+      "id": "NatureTime.ca",
+      "name": "NatureTime",
+      "group": "06纪录片科学",
+      "aliases": [
+        "NatureTime"
+      ],
+      "feeds": [
+        "SD",
+        "UK"
+      ],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "https://naturetimetv.com/",
+      "source_aliases": [
+        "NatureTime"
+      ],
+      "feed_preference": [
+        "SD",
+        "UK"
+      ]
+    },
+    {
+      "id": "WildEarth.za",
+      "name": "WildEarth",
+      "group": "06纪录片科学",
+      "aliases": [
+        "WildEarth",
+        "Wild Earth"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "https://wildearth.tv/",
+      "source_aliases": [
+        "Wild Earth"
+      ]
+    },
+    {
+      "id": "arte.de",
+      "name": "ARTE（德语）",
+      "group": "06纪录片科学",
+      "aliases": [
+        "ARTE（德语）",
+        "arte",
+        "arte Deutschland"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "https://www.arte.tv/",
+      "source_aliases": [
+        "ARTE（德语）"
+      ]
+    },
+    {
+      "id": "NASATV.us",
+      "name": "NASA TV（已停播）",
+      "group": "06纪录片科学",
+      "aliases": [
+        "NASA TV（已停播）",
+        "NASA TV"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "NASA TV 已转向 NASA+；保留目标记录，不编造常驻直播 URL。",
+      "official_website": "http://www.nasa.gov/multimedia/nasatv/",
+      "source_aliases": [
+        "NASA TV（已停播）"
+      ]
+    },
+    {
+      "id": "BBCOne.uk",
+      "name": "BBC One",
+      "group": "07综合娱乐",
+      "aliases": [
+        "BBC One",
+        "BBC1",
+        "BBC Television",
+        "BBC Television Service"
+      ],
+      "feeds": [
+        "London"
+      ],
+      "subscription_only": true,
+      "note": "BBC iPlayer 通常需英国地区及 TV Licence；本订阅不收录需账号或授权的源。",
+      "official_website": "http://www.bbc.co.uk/bbcone/",
+      "source_aliases": [
+        "BBC One"
+      ]
+    },
+    {
+      "id": "ITV1.uk",
+      "name": "ITV1",
+      "group": "07综合娱乐",
+      "aliases": [
+        "ITV1",
+        "ITV"
+      ],
+      "feeds": [],
+      "subscription_only": true,
+      "note": "",
+      "official_website": "https://www.itv.com/hub/itv",
+      "source_aliases": [
+        "ITV1"
+      ]
+    },
+    {
+      "id": "NHKGeneralTV.jp",
+      "name": "NHK综合",
+      "group": "07综合娱乐",
+      "aliases": [
+        "NHK综合",
+        "NHK General TV",
+        "NHK G",
+        "NHK総合テレビジョン"
+      ],
+      "feeds": [],
+      "subscription_only": true,
+      "note": "",
+      "official_website": "https://www.nhk.or.jp/",
+      "source_aliases": [
+        "NHK综合"
+      ]
+    },
+    {
+      "id": "KBSWorld.kr",
+      "name": "KBS World",
+      "group": "07综合娱乐",
+      "aliases": [
+        "KBS World",
+        "KBS 월드"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "http://kbsworld.kbs.co.kr/",
+      "source_aliases": [
+        "KBS World"
+      ]
+    },
+    {
+      "id": "TV5MondeAsia.fr",
+      "name": "TV5Monde Asia",
+      "group": "07综合娱乐",
+      "aliases": [
+        "TV5Monde Asia",
+        "TV5Monde Asie"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "https://apac.tv5monde.com/",
+      "source_aliases": [
+        "TV5Monde Asia"
+      ],
+      "known_labels": [
+        "Geo-blocked"
+      ]
+    },
+    {
+      "id": "France2.fr",
+      "name": "France 2",
+      "group": "07综合娱乐",
+      "aliases": [
+        "France 2"
+      ],
+      "feeds": [],
+      "subscription_only": true,
+      "note": "",
+      "official_website": "https://www.france.tv/france-2/",
+      "source_aliases": [
+        "France 2"
+      ]
+    },
+    {
+      "id": "FashionTVEurope.fr",
+      "name": "FashionTV Europe",
+      "group": "07综合娱乐",
+      "aliases": [
+        "FashionTV Europe",
+        "Fashion TV"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "https://www.fashiontv.com/",
+      "source_aliases": [
+        "FashionTV Europe"
+      ]
+    },
+    {
+      "id": "FilmRiseClassicTV.us",
+      "name": "FilmRise Classic TV",
+      "group": "07综合娱乐",
+      "aliases": [
+        "FilmRise Classic TV"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "https://filmrise.com/",
+      "source_aliases": [
+        "FilmRise Classic TV"
+      ]
+    },
+    {
+      "id": "RedBullTV.at",
+      "name": "Red Bull TV",
+      "group": "08国际体育",
+      "aliases": [
+        "Red Bull TV",
+        "Redbull"
+      ],
+      "feeds": [
+        "SD",
+        "EUMENA",
+        "UK",
+        "US",
+        "AU"
+      ],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "https://www.redbull.tv/",
+      "source_aliases": [
+        "Redbull"
+      ],
+      "preferred_hosts": [
+        "rbmn-live.akamaized.net"
+      ],
+      "feed_preference": [
+        "SD",
+        "EUMENA",
+        "UK",
+        "US",
+        "AU"
+      ]
+    },
+    {
+      "id": "FIFAPlus.uk",
+      "name": "FIFA+",
+      "group": "08国际体育",
+      "aliases": [
+        "FIFA+"
+      ],
+      "feeds": [
+        "English"
+      ],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "https://www.plus.fifa.com/",
+      "source_aliases": [
+        "FIFA+"
+      ]
+    },
+    {
+      "id": "beINSPORTSXTRA.us",
+      "name": "beIN SPORTS XTRA",
+      "group": "08国际体育",
+      "aliases": [
+        "beIN SPORTS XTRA"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "https://www.beinsportsxtra.com/",
+      "source_aliases": [
+        "beIN SPORTS XTRA"
+      ]
+    },
+    {
+      "id": "OlympicChannel.es",
+      "name": "Olympic Channel",
+      "group": "08国际体育",
+      "aliases": [
+        "Olympic Channel"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "",
+      "official_website": "https://olympics.com/",
+      "source_aliases": [
+        "Olympic Channel"
+      ],
+      "known_labels": [
+        "Geo-blocked"
+      ]
+    },
+    {
+      "id": "SportsGrid.us",
+      "name": "SportsGrid",
+      "group": "08国际体育",
+      "aliases": [
+        "SportsGrid"
+      ],
+      "feeds": [],
+      "subscription_only": false,
+      "note": "体育资讯频道，含博彩相关节目；可从白名单删除。",
+      "official_website": "https://www.sportsgrid.com/live/",
+      "source_aliases": [
+        "SportsGrid"
+      ]
+    },
+    {
+      "id": "ESPN.us",
+      "name": "ESPN",
+      "group": "08国际体育",
+      "aliases": [
+        "ESPN"
+      ],
+      "feeds": [],
+      "subscription_only": true,
+      "note": "",
+      "official_website": "https://espn.com/",
+      "source_aliases": [
+        "ESPN"
+      ]
+    },
+    {
+      "id": "Eurosport1.fr",
+      "name": "Eurosport 1",
+      "group": "08国际体育",
+      "aliases": [
+        "Eurosport 1"
+      ],
+      "feeds": [],
+      "subscription_only": true,
+      "note": "",
+      "official_website": "https://www.eurosport.fr/",
+      "source_aliases": [
+        "Eurosport 1"
+      ]
+    }
+  ]
+}
