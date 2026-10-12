@@ -1,7 +1,0 @@
-{
-  "preferred_urls": {},
-  "blocked_urls": [],
-  "disabled_channels": [],
-  "notes": {},
-  "note": "小米电视试播后填写。preferred_urls 的值必须仍在上游目录；这里不允许凭空生成链接。blocked_urls 按完整 URL 匹配；disabled_channels 按白名单 ID 匹配。"
-}
